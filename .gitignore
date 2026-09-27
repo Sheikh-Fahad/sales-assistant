@@ -1,0 +1,7 @@
+node_modules/
+.env
+auth_session/
+conversations.json
+orders.log.jsonl
+*.log
+wa_qr.png
